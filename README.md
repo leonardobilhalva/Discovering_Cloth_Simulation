@@ -4,4 +4,4 @@ This projects is a process of discovery about cloth simulation. By that we mean 
 
 ## Authors:
 
-@leonardobilhalva and @leosebben
+[Leonardo Bilhalva](https://github.com/leonardobilhalva) and [Leonardo Sebben](https://github.com/leosebben)
